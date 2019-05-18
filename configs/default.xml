@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+    <feature automatic="selected" name="ChatAppFH"/>
+    <feature automatic="selected" name="Base"/>
+    <feature manual="selected" name="SpamFilter"/>
+    <feature manual="selected" name="PrivateMessage"/>
+</configuration>
